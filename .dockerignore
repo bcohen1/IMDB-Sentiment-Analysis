@@ -1,0 +1,12 @@
+.pytest_cache/
+__pycache__/
+htmlcov/
+tests/
+imdb/
+.dockerignore
+.gitignore
+Dockerfile
+submission.csv
+LICENSE
+Makefile
+README.md

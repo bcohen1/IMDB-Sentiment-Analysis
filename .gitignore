@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+.pytest_cache/
+__pycache__/
+htmlcov/
+
+# Venv
+imdb/
+
+# Ignore output csv file
+submission.csv
